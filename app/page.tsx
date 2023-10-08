@@ -13,7 +13,7 @@ export default function Home() {
             <Image
               src="/images/logo.png"
               alt="Jujuxjuju"
-              className="bg-white rounded-full p-2"
+              className="bg-white  p-2"
               width={100}
               height={24}
               priority
